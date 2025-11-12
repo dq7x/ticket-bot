@@ -300,7 +300,7 @@ Created by [dq7x](https://github.com/dq7x)
 ## 📞 Support
 
 - Create an issue on GitHub
-- Join our [Discord Server](https://discord.gg/yourserver)
+- Join our [Discord Server](https://discord.gg/tCCsf6u3Bj)
 
 ---
 
